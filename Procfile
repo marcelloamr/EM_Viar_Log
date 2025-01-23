@@ -1,0 +1,1 @@
+web: gunicorn emviar_logistica.wsgi

@@ -23,9 +23,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-wx1-bjo14ahz#=y&!6njyqab%!aj=wsk)n578j8^i9mw+v$7vf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
-ALLOWED_HOSTS = []
+DEBUG = os.getenv("DEBUG", "False") == "True"
+
+
+ALLOWED_HOSTS = ["emviarlogistica.onrender.com", "127.0.0.1"]
 
 
 # Application definition
@@ -57,6 +59,9 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'emviar_logistica.urls'
+
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+
 
 TEMPLATES = [
     {
