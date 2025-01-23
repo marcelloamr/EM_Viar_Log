@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/5.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
 """
-
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-wx1-bjo14ahz#=y&!6njyqab%!aj=wsk)n578j8^i9mw+v$7vf
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-DEBUG = os.getenv("DEBUG", "False") == "True"
+DEBUG = True
 
 
 ALLOWED_HOSTS = ["emviarlogistica.onrender.com", "127.0.0.1"]
@@ -42,11 +42,13 @@ INSTALLED_APPS = [
     'website',
 ]
 
+# Configurações de arquivos estáticos
 STATIC_URL = '/static/'
+STATICFILES_DIRS = [BASE_DIR / "static"]
+STATIC_ROOT = BASE_DIR / "staticfiles"
 
-STATICFILES_DIRS = [
-    BASE_DIR / "static",
-]
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / "media"
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -60,7 +62,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'emviar_logistica.urls'
 
-STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+
 
 
 TEMPLATES = [
