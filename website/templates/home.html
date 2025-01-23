@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+<div class="hero d-flex flex-column align-items-center text-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Ícone à esquerda com tamanho aumentado -->
+            <div class="col-md-2 text-center mb-3 mb-md-0">
+                <img src="{% static 'website/aniversario10y.png' %}" alt="10 Anos de Aniversário" 
+                     class="img-fluid" 
+                     style="max-width: 225px;"> <!-- 150px original + 50% -->
+            </div>
+
+            <!-- Texto centralizado -->
+            <div class="col-md-10 text-center">
+                <h1>Bem-vindo à EM Viar Logística</h1>
+                <p>Soluções modernas e inovadoras em logística para atender às suas necessidades.</p>
+                <a href="{% url 'services' %}" class="btn btn-saiba-mais mt-3">Saiba Mais</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Por que escolher a EM Viar Logística?</h2>
+    <div class="row text-center">
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Eficiência</h3>
+                    <p class="card-text">Garantimos agilidade em todas as etapas do transporte e armazenamento.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Inovação</h3>
+                    <p class="card-text">Utilizamos tecnologias modernas para otimizar o desempenho logístico.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Confiança</h3>
+                    <p class="card-text">Construímos parcerias sólidas baseadas na qualidade e segurança.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Nossos Diferenciais</h2>
+    <div class="row text-center">
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Transparência</h3>
+                    <p class="card-text">Priorizamos a sinceridade e a clareza em todas as negociações, construindo confiança com nossos clientes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Preço Competitivo</h3>
+                    <p class="card-text">Oferecemos soluções logísticas de alta qualidade com preços que cabem no orçamento do cliente.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 d-flex align-items-stretch">
+            <div class="card border-0 shadow-sm mb-4 w-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">Facilidade de Comunicação</h3>
+                    <p class="card-text">Disponibilizamos diversos canais de atendimento para garantir rapidez e eficiência na comunicação.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
