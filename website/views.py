@@ -19,6 +19,9 @@ def contact(request):
 def cities(request):
     return render(request, 'cities.html')
 
+def cubagem(request):
+    return render(request, 'cubagem.html')
+
 
 def cities_view(request):
     csv_file_path = os.path.join(settings.BASE_DIR, 'cidades.csv')
