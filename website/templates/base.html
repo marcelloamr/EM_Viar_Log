@@ -67,9 +67,13 @@
         }
 
         .navbar-brand {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #ffffff;
+            background-color: rgba(255, 255, 255, 0.8); /* Fundo branco translúcido */
+            border-radius: 8px; /* Bordas arredondadas */
+            padding: 5px 10px; /* Espaçamento interno */
+        }
+
+        .navbar-brand img {
+            height: 40px;
         }
 
         .navbar-nav .nav-link {
@@ -129,7 +133,9 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="{% url 'home' %}">EM Viar Logística</a>
+            <a class="navbar-brand" href="{% url 'home' %}">
+                <img src="{% static 'website/logo.png' %}" alt="EM Viar Logística">
+            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -145,7 +151,13 @@
                         <a class="nav-link" href="{% url 'about' %}">Sobre Nós</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="{% url 'cities' %}">Cidades Atendidas</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="{% url 'contact' %}">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://emviarlogistica.brudam.com.br/" target="_blank">Área do Cliente</a>
                     </li>
                 </ul>
             </div>
@@ -161,8 +173,8 @@
     <footer>
         <div class="container">
             <p>
-                R. Martinica, 21 / 37 - Santa Branca, Belo Horizonte - MG | Telefone: (31) 3274-2337
-                <a href="https://wa.me/55313274337" target="_blank" rel="noopener noreferrer">
+                R. Martinica, 21 / 37 - Santa Branca, Belo Horizonte - MG | Telefone: (31) 3081.9474
+                <a href="https://wa.me/553130819474" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-whatsapp" style="color: #25d366; font-size: 1.2rem; vertical-align: middle; margin-left: 5px;"></i>
                 </a>
             </p>

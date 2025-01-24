@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <h1>Cidades Atendidas</h1>
+    <input type="text" id="search-bar" class="form-control my-3" placeholder="Busque por uma cidade..." />
+    
+    <!-- Lista com barra de rolagem interna -->
+    <div class="city-list" id="city-list" style="max-height: 200px; overflow-y: auto;">
+        {% for cidade, atendimento in cidades %}
+            <div class="city-item" data-cidade="{{ cidade|slugify }}">
+                <strong class="city-name">{{ cidade }}</strong> 
+                - <span class="atendimento">{{ atendimento }}</span>
+            </div>
+        {% endfor %}
+    </div>
+
+    <div id="no-results" class="no-results" style="display: none;">
+        Nenhuma cidade encontrada.
+    </div>
+</div>
+
+<script>
+    const searchBar = document.getElementById('search-bar');
+    const cityList = document.getElementById('city-list');
+    const cities = document.querySelectorAll('.city-item');
+    const noResults = document.getElementById('no-results');
+
+    searchBar.addEventListener('input', () => {
+        const query = searchBar.value.trim().toLowerCase();
+        let hasResults = false;
+
+        cities.forEach(city => {
+            const cityName = city.dataset.cidade.toLowerCase();
+            if (cityName.includes(query)) {
+                city.style.display = 'block';
+                hasResults = true;
+            } else {
+                city.style.display = 'none';
+            }
+        });
+
+        noResults.style.display = hasResults ? 'none' : 'block';
+    });
+</script>
+
+<style>
+    .city-list {
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+
+    .city-item {
+        padding: 5px 0;
+    }
+
+    .city-item:not(:last-child) {
+        border-bottom: 1px solid #e6e6e6;
+    }
+
+    .city-name {
+        color: #0056b3; /* Azul consistente com a página Home */
+        font-weight: bold;
+    }
+
+    .atendimento {
+        color: white; /* Texto do atendimento em branco */
+        background-color: #0056b3; /* Fundo azul escuro */
+        padding: 2px 5px;
+        border-radius: 3px;
+    }
+
+    .no-results {
+        margin-top: 10px;
+        color: #ff0000;
+        font-weight: bold;
+    }
+</style>
+{% endblock %}

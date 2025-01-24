@@ -1,0 +1,515 @@
+Cidade	";"	Atendimento
+Abadia dos Dourados	";"	ALTERNADO
+Abaete	";"	ALTERNADO
+Abre Campo	";"	ALTERNADO
+Agua Boa	";"	ALTERNADO
+µguas Formosas	";"	ALTERNADO
+µguas Vermelhas	";"	SEMANAL
+Aiuruoca	";"	ALTERNADO
+Alem Paraiba	";"	ALTERNADO
+Alfenas	";"	ALTERNADO
+Almenara	";"	ALTERNADO
+Alpinopolis	";"	ALTERNADO
+Alterosa	";"	ALTERNADO
+Alto Jequitib 	";"	SEMANAL
+Alto Rio Doce	";"	SEMANAL
+Alvinopolis	";"	ALTERNADO
+Andradas	";"	ALTERNADO
+Andrelandia	";"	ALTERNADO
+Ant“nio Carlos	";"	ALTERNADO
+Ant“nio Dias	";"	SEMANAL
+Aracuai	";"	ALTERNADO
+Ara‡ua¡	";"	ALTERNADO
+Araguari	";"	ALTERNADO
+AraporÆ	";"	ALTERNADO
+Araujos	";"	ALTERNADO
+Ara£jos	";"	ALTERNADO
+Arax 	";"	ALTERNADO
+Arceburgo	";"	ALTERNADO
+Arcos	";"	ALTERNADO
+Areado	";"	ALTERNADO
+Astolfo Dutra	";"	ALTERNADO
+Atal‚ia	";"	ALTERNADO
+Augusto De Lima	";"	ALTERNADO
+Baependi	";"	ALTERNADO
+Bambu¡	";"	ALTERNADO
+Bandeira do Sul	";"	ALTERNADO
+BarÆo de Cocais	";"	ALTERNADO
+Barbacena	";"	ALTERNADO
+Barroso	";"	ALTERNADO
+Bela Vista de Minas	";"	SEMANAL
+Belo Horizonte	";"	DIARIO
+Belo Oriente	";"	ALTERNADO
+Belo Vale	";"	ALTERNADO
+Berilo	";"	ALTERNADO
+Betim	";"	ALTERNADO
+Bicas	";"	ALTERNADO
+Boa Esperan‡a	";"	ALTERNADO
+Bocai£va	";"	ALTERNADO
+Bom Despacho	";"	ALTERNADO
+Bom Jardim de Minas	";"	ALTERNADO
+Bom Jesus da Penha	";"	ALTERNADO
+Bom Jesus do Galho	";"	SEMANAL
+Bom Repouso	";"	ALTERNADO
+Bom Sucesso	";"	ALTERNADO
+Bonfim	";"	ALTERNADO
+Bonfin¢polis de Minas	";"	ALTERNADO
+Borda da Mata	";"	ALTERNADO
+Botelhos	";"	ALTERNADO
+Brasilƒndia de Minas	";"	ALTERNADO
+Bras¡lia de Minas	";"	ALTERNADO
+Brasopolis	";"	ALTERNADO
+Braz¢polis	";"	ALTERNADO
+Brumadinho	";"	ALTERNADO
+Bueno BrandÆo	";"	ALTERNADO
+Buen¢polis	";"	ALTERNADO
+Buritizeiro	";"	ALTERNADO
+Cabo Verde	";"	ALTERNADO
+Cachoeira da Prata	";"	ALTERNADO
+Cachoeira da Prata	";"	SEMANAL
+Cachoeira de Minas	";"	ALTERNADO
+Cachoeira de Paje£	";"	SEMANAL
+Caetanopolis	";"	ALTERNADO
+Caetan¢polis	";"	ALTERNADO
+Caet‚	";"	ALTERNADO
+Caldas	";"	ALTERNADO
+Camanducaia	";"	ALTERNADO
+Cambu¡	";"	ALTERNADO
+Cambuquira	";"	ALTERNADO
+Campan rio	";"	SEMANAL
+Campanha	";"	ALTERNADO
+Campestre	";"	ALTERNADO
+Campina Verde	";"	ALTERNADO
+Campo Belo	";"	ALTERNADO
+Campo do Meio	";"	ALTERNADO
+Campo Florido	";"	ALTERNADO
+Campos Altos	";"	ALTERNADO
+Campos Gerais	";"	ALTERNADO
+Can polis	";"	ALTERNADO
+Candeias	";"	ALTERNADO
+Capelinha	";"	ALTERNADO
+Capin¢polis	";"	ALTERNADO
+CapitÆo En‚as	";"	ALTERNADO
+Capit¢lio	";"	ALTERNADO
+Caranda¡	";"	ALTERNADO
+Caratinga	";"	ALTERNADO
+Carbonita	";"	ALTERNADO
+Carlos Chagas	";"	ALTERNADO
+Carmo da Cachoeira	";"	ALTERNADO
+Carmo da Mata	";"	ALTERNADO
+Carmo de Minas	";"	ALTERNADO
+Carmo Do Cajuru	";"	ALTERNADO
+Carmo do Parana¡ba	";"	ALTERNADO
+Carmo Do Rio Claro	";"	ALTERNADO
+Carm¢polis De Minas	";"	ALTERNADO
+Carneirinho	";"	ALTERNADO
+Carrancas	";"	ALTERNADO
+C ssia	";"	ALTERNADO
+Cataguases	";"	ALTERNADO
+Catas Altas	";"	ALTERNADO
+Caxambu	";"	ALTERNADO
+Central de Minas	";"	ALTERNADO
+Centralina	";"	ALTERNADO
+Chapada do Norte	";"	SEMANAL
+Cl udio	";"	ALTERNADO
+Coimbra	";"	ALTERNADO
+Coluna	";"	SEMANAL
+Comercinho	";"	ALTERNADO
+Concei‡Æo da Aparecida	";"	ALTERNADO
+Conceicao das Alagoas	";"	ALTERNADO
+ConceicÆo das Alagoas	";"	ALTERNADO
+Concei‡Æo das Alagoas	";"	ALTERNADO
+Concei‡Æo do Mato Dentro	";"	ALTERNADO
+Concei‡Æo do Par 	";"	SEMANAL
+Conceicao do Rio Verde	";"	ALTERNADO
+ConceicÆo do Rio Verde	";"	ALTERNADO
+Concei‡ao do Rio Verde	";"	ALTERNADO
+Concei‡Æo do Rio Verde	";"	ALTERNADO
+Concei‡Æo dos Ouros	";"	ALTERNADO
+Confins	";"	ALTERNADO
+Congonhal	";"	ALTERNADO
+Congonhas	";"	ALTERNADO
+Conquista	";"	ALTERNADO
+Conselheiro Lafaiete	";"	ALTERNADO
+Conselheiro Pena	";"	ALTERNADO
+Contagem	";"	DIARIO
+Coqueiral	";"	ALTERNADO
+Cora‡Æo De Jesus	";"	ALTERNADO
+Cordisburgo	";"	ALTERNADO
+Corinto	";"	ALTERNADO
+Coroaci	";"	ALTERNADO
+Coromandel	";"	ALTERNADO
+Coronel Pacheco	";"	ALTERNADO
+Cristina	";"	ALTERNADO
+Crucilƒndia	";"	ALTERNADO
+Cruzeiro da Fortaleza	";"	SEMANAL
+Cruz¡lia	";"	ALTERNADO
+Curvelo	";"	ALTERNADO
+Datas	";"	SEMANAL
+Delfim Moreira	";"	SEMANAL
+Descoberto	";"	ALTERNADO
+Desterro de Entre Rios	";"	SEMANAL
+Diamantina	";"	ALTERNADO
+Divino	";"	ALTERNADO
+Divino das Laranjeiras	";"	ALTERNADO
+Divinopolis	";"	ALTERNADO
+Divin¢polis	";"	ALTERNADO
+Divisa Nova	";"	ALTERNADO
+Divis¢polis	";"	SEMANAL
+Dom Cavati	";"	ALTERNADO
+Dom Cavati	";"	SEMANAL
+Dom Silverio	";"	ALTERNADO
+Dom Silv‚rio	";"	ALTERNADO
+Dona Eus‚bia	";"	SEMANAL
+Dores Do Indai 	";"	ALTERNADO
+El¢i Mendes	";"	ALTERNADO
+Engenheiro Caldas	";"	ALTERNADO
+Entre Folhas	";"	SEMANAL
+Entre Rios de Minas	";"	ALTERNADO
+Erv lia	";"	ALTERNADO
+Esmeraldas	";"	ALTERNADO
+Espera Feliz	";"	ALTERNADO
+Espinosa	";"	ALTERNADO
+Estiva	";"	ALTERNADO
+Estrela Dalva	";"	ALTERNADO
+Estrela Do Sul	";"	ALTERNADO
+Eugen¢polis	";"	ALTERNADO
+Extrema	";"	ALTERNADO
+Felizburgo	";"	SEMANAL
+Ferros	";"	ALTERNADO
+Florestal	";"	ALTERNADO
+Formiga	";"	ALTERNADO
+Fortaleza de Minas	";"	ALTERNADO
+Fortaleza de Minas	";"	SEMANAL
+Francisco Badaro	";"	ALTERNADO
+Francisco Badar¢	";"	ALTERNADO
+Francisco Sa	";"	ALTERNADO
+Francisco S 	";"	ALTERNADO
+Fronteira	";"	ALTERNADO
+Frutal	";"	ALTERNADO
+Goian 	";"	ALTERNADO
+Gouveia	";"	SEMANAL
+Governador Valadares	";"	DIARIO
+GrÆo Mogol	";"	ALTERNADO
+GuanhÆes	";"	ALTERNADO
+Guap‚	";"	ALTERNADO
+Guaraciaba	";"	SEMANAL
+Guaran‚sia	";"	ALTERNADO
+Guarani	";"	ALTERNADO
+Guarda-Mor	";"	SEMANAL
+Guaxup‚	";"	ALTERNADO
+Guidoval	";"	ALTERNADO
+Guimarƒnia	";"	ALTERNADO
+Guiricema	";"	ALTERNADO
+GurinhatÆ	";"	SEMANAL
+Heliodora	";"	ALTERNADO
+Iapu	";"	ALTERNADO
+Ibi 	";"	ALTERNADO
+Ibia¡	";"	ALTERNADO
+Ibiraci	";"	ALTERNADO
+Ibirit‚	";"	ALTERNADO
+Icara¡ De Minas	";"	ALTERNADO
+Igarap‚	";"	ALTERNADO
+Igaratinga	";"	SEMANAL
+Iguatama	";"	ALTERNADO
+Ilicin‚a	";"	ALTERNADO
+Inconfidentes	";"	ALTERNADO
+Indian¢polis	";"	ALTERNADO
+Inhapim	";"	ALTERNADO
+Inha£ma	";"	ALTERNADO
+Ipaba	";"	ALTERNADO
+Ipatinga	";"	DIARIO
+Ipuiuna	";"	ALTERNADO
+Ira¡ De Minas	";"	ALTERNADO
+Itabira	";"	ALTERNADO
+Itabirinha	";"	ALTERNADO
+Itabirinha de Mantena	";"	ALTERNADO
+Itabirito	";"	ALTERNADO
+Itacarambi	";"	ALTERNADO
+Itaguara	";"	ALTERNADO
+Itaip‚	";"	SEMANAL
+Itajub 	";"	ALTERNADO
+Itamarandiba	";"	ALTERNADO
+Itamarati De Minas	";"	ALTERNADO
+Itambacuri	";"	ALTERNADO
+Itamogi	";"	ALTERNADO
+Itamonte	";"	ALTERNADO
+Itanhandu	";"	ALTERNADO
+Itaobim	";"	ALTERNADO
+Itapecirica	";"	ALTERNADO
+Itapeva	";"	ALTERNADO
+Itatiaiu‡u	";"	ALTERNADO
+Ita£ de Minas	";"	ALTERNADO
+Ita£na	";"	ALTERNADO
+Itinga	";"	ALTERNADO
+Ituiutaba	";"	ALTERNADO
+Iturama	";"	ALTERNADO
+Jaboticatubas	";"	ALTERNADO
+Jacinto	";"	ALTERNADO
+Jacu¡	";"	ALTERNADO
+Jacutinga	";"	ALTERNADO
+Ja¡ba	";"	ALTERNADO
+Jana£ba	";"	ALTERNADO
+Janu ria	";"	ALTERNADO
+Jenipapo de Minas	";"	ALTERNADO
+Jequeri	";"	ALTERNADO
+Jequita¡	";"	SEMANAL
+Jequitinhonha	";"	ALTERNADO
+Joaima	";"	ALTERNADO
+Joa¡ma	";"	ALTERNADO
+JoÆo Monlevade	";"	ALTERNADO
+JoÆo Pinheiro	";"	ALTERNADO
+Juatuba	";"	ALTERNADO
+Juiz de Fora	";"	DIARIO
+Juruaia	";"	ALTERNADO
+Ladainha	";"	ALTERNADO
+Lagamar	";"	ALTERNADO
+Lagoa Da Prata	";"	ALTERNADO
+Lagoa Dos Patos	";"	ALTERNADO
+Lagoa Dourada	";"	ALTERNADO
+Lagoa Formosa	";"	ALTERNADO
+Lagoa Santa	";"	ALTERNADO
+Lambari	";"	ALTERNADO
+Laranjal	";"	SEMANAL
+Lavras	";"	ALTERNADO
+Leandro Ferreira	";"	ALTERNADO
+Leopoldina	";"	ALTERNADO
+Liberdade	";"	ALTERNADO
+Lima Duarte	";"	ALTERNADO
+Limeira do Oeste	";"	ALTERNADO
+Luz	";"	ALTERNADO
+Machacalis	";"	SEMANAL
+Machado	";"	ALTERNADO
+Malacacheta	";"	ALTERNADO
+Manga	";"	ALTERNADO
+Manhua‡u	";"	DIARIO
+Mantena	";"	ALTERNADO
+Maravilhas	";"	ALTERNADO
+Maria da F‚	";"	ALTERNADO
+Mariana	";"	ALTERNADO
+M rio Campos	";"	ALTERNADO
+Marip  de Minas	";"	ALTERNADO
+Martinho Campos	";"	ALTERNADO
+Mata Verde	";"	ALTERNADO
+Mateus Leme	";"	ALTERNADO
+Mathias Lobato	";"	SEMANAL
+Matias Barbosa	";"	ALTERNADO
+Matip¢	";"	ALTERNADO
+Mato Verde	";"	ALTERNADO
+Matozinhos	";"	ALTERNADO
+Medina	";"	ALTERNADO
+Mendes Pimentel	";"	SEMANAL
+Mercˆs	";"	ALTERNADO
+Mesquita	";"	ALTERNADO
+Minas Novas	";"	ALTERNADO
+Minduri	";"	ALTERNADO
+Mirabela	";"	ALTERNADO
+Miradouro	";"	ALTERNADO
+Mira¡	";"	ALTERNADO
+Moeda	";"	ALTERNADO
+Moema	";"	SEMANAL
+Monsenhor Paulo	";"	ALTERNADO
+Montalvƒnia	";"	ALTERNADO
+Monte Alegre de Minas	";"	ALTERNADO
+Monte Azul	";"	ALTERNADO
+Monte Belo	";"	ALTERNADO
+Monte Carmelo	";"	ALTERNADO
+Monte Santo de Minas	";"	ALTERNADO
+Monte SiÆo	";"	ALTERNADO
+Monte Verde	";"	SEMANAL
+Montes Claros	";"	DIARIO
+Morada Nova De Minas	";"	ALTERNADO
+Munhoz	";"	SEMANAL
+Muria‚	";"	ALTERNADO
+Muzambinho	";"	ALTERNADO
+Nanuque	";"	ALTERNADO
+Natercia	";"	SEMANAL
+Nazareno	";"	SEMANAL
+Nepomuceno	";"	ALTERNADO
+Nova Era	";"	ALTERNADO
+Nova Lima	";"	ALTERNADO
+Nova M¢dica	";"	ALTERNADO
+Nova Ponte	";"	ALTERNADO
+Nova Resende	";"	ALTERNADO
+Nova Uniao	";"	ALTERNADO
+Ol¡mpio Noronha	";"	ALTERNADO
+Oliveira	";"	ALTERNADO
+Ouro Branco	";"	ALTERNADO
+Ouro Fino	";"	ALTERNADO
+Ouro Preto	";"	ALTERNADO
+Padre Para¡so	";"	ALTERNADO
+Pains	";"	ALTERNADO
+Palm¢polis	";"	SEMANAL
+Papagaios	";"	ALTERNADO
+Par  de Minas	";"	ALTERNADO
+Paracatu	";"	SEMANAL
+Paragua‡u	";"	ALTERNADO
+Parais¢polis	";"	ALTERNADO
+Paraopeba	";"	ALTERNADO
+Passa Quatro	";"	ALTERNADO
+Passa Tempo	";"	ALTERNADO
+Passos	";"	ALTERNADO
+Patos de Minas	";"	DIARIO
+Patroc¡nio	";"	ALTERNADO
+Paula Cƒndido	";"	SEMANAL
+Pavao	";"	ALTERNADO
+PavÆo	";"	ALTERNADO
+Pe‡anha	";"	ALTERNADO
+Pedra Azul	";"	ALTERNADO
+Pedralva	";"	ALTERNADO
+Pedrin¢polis	";"	ALTERNADO
+Pedro Leopoldo	";"	ALTERNADO
+Pequeri	";"	ALTERNADO
+PerdigÆo	";"	ALTERNADO
+Perdizes	";"	ALTERNADO
+Perdäes	";"	ALTERNADO
+Pimenta	";"	ALTERNADO
+Piracema	";"	ALTERNADO
+Pirajuba	";"	ALTERNADO
+Piranga	";"	ALTERNADO
+Piranguinho	";"	ALTERNADO
+Pirapetinga	";"	ALTERNADO
+Pirapora	";"	ALTERNADO
+Pira£ba	";"	ALTERNADO
+Pitangui	";"	ALTERNADO
+Piumhi	";"	ALTERNADO
+Planura	";"	ALTERNADO
+Po‡o Fundo	";"	ALTERNADO
+Po‡os De Caldas	";"	ALTERNADO
+Pocrane	";"	SEMANAL
+Pomp‚u	";"	ALTERNADO
+Ponte Nova	";"	ALTERNADO
+Pot‚	";"	ALTERNADO
+Pouso Alto	";"	ALTERNADO
+Prata	";"	ALTERNADO
+Prat polis	";"	ALTERNADO
+Presidente Oleg rio	";"	ALTERNADO
+Raul Soares	";"	ALTERNADO
+Recreio	";"	ALTERNADO
+Resende Costa	";"	ALTERNADO
+Resplendor	";"	ALTERNADO
+Riachinho	";"	ALTERNADO
+RibeirÆo das Neves	";"	ALTERNADO
+Ribeirao Vermelho	";"	SEMANAL
+Rio Acima	";"	SEMANAL
+Rio Casca	";"	ALTERNADO
+Rio do Prado	";"	SEMANAL
+Rio Manso	";"	ALTERNADO
+Rio Novo	";"	ALTERNADO
+Rio Parana¡ba	";"	ALTERNADO
+Rio Pardo de Minas	";"	ALTERNADO
+Rio Piracicaba	";"	ALTERNADO
+Rio Pomba	";"	ALTERNADO
+Rio Preto	";"	ALTERNADO
+Rio Vermelho	";"	SEMANAL
+Rochedo de Minas	";"	ALTERNADO
+Rodeiro	";"	ALTERNADO
+Romaria	";"	ALTERNADO
+Rubim	";"	ALTERNADO
+Sabara	";"	ALTERNADO
+Sabar 	";"	ALTERNADO
+Sabin¢polis	";"	ALTERNADO
+Sacramento	";"	ALTERNADO
+Salinas	";"	ALTERNADO
+Salto da Divisa	";"	SEMANAL
+Santa B rbara	";"	ALTERNADO
+Santa Juliana	";"	ALTERNADO
+Santa Luzia	";"	ALTERNADO
+Santa Margarida	";"	ALTERNADO
+Santa Maria de Itabira	";"	ALTERNADO
+Santa Maria do Sua‡u¡	";"	ALTERNADO
+Santa Rita de Caldas	";"	ALTERNADO
+Santa Rita do Sapuca¡	";"	ALTERNADO
+Santa Vit¢ria	";"	ALTERNADO
+Santana Da Vargem	";"	ALTERNADO
+Santana do Jacar‚	";"	ALTERNADO
+Santana do Para¡so	";"	SEMANAL
+Santo Ant“nio do Amparo	";"	ALTERNADO
+Santo Ant“nio Do Aventureiro	";"	ALTERNADO
+Santo Ant“nio do Jacinto	";"	ALTERNADO
+Santos Dumont	";"	ALTERNADO
+SÆo Domingos do Prata	";"	ALTERNADO
+SÆo Francisco	";"	ALTERNADO
+SÆo Francisco de Paula	";"	ALTERNADO
+SÆo Francisco de Sales	";"	ALTERNADO
+SÆo Geraldo	";"	ALTERNADO
+SÆo Gon‡alo do Abaet‚	";"	ALTERNADO
+SÆo Gon‡alo do Par 	";"	SEMANAL
+SÆo Gon‡alo do Rio Abaixo	";"	ALTERNADO
+SÆo Gon‡alo Do Sapuca¡	";"	ALTERNADO
+SÆo Gotardo	";"	ALTERNADO
+SÆo JoÆo da Ponte	";"	ALTERNADO
+SÆo JoÆo das Missäes	";"	SEMANAL
+Sao JoÆo Del Rei	";"	ALTERNADO
+SÆo JoÆo do Manteninha	";"	SEMANAL
+SÆo JoÆo do Oriente	";"	ALTERNADO
+SÆo JoÆo do Para¡so	";"	ALTERNADO
+SÆo JoÆo Evangelista	";"	ALTERNADO
+SÆo JoÆo Nepomuceno	";"	ALTERNADO
+SÆo Joaquim de Bicas	";"	ALTERNADO
+SÆo Jos‚ da Barra	";"	ALTERNADO
+SÆo Jos‚ da Lapa	";"	ALTERNADO
+SÆo Jos‚ do Alegre	";"	ALTERNADO
+SÆo Jos‚ do Divino	";"	SEMANAL
+SÆo Jos‚ do Goiabal	";"	SEMANAL
+SÆo Jos‚ do Jacuri	";"	SEMANAL
+SÆo Louren‡o	";"	ALTERNADO
+SÆo Pedro da UniÆo	";"	ALTERNADO
+SÆo Pedro do Sua‡u¡	";"	ALTERNADO
+SÆo Pedro dos Ferros	";"	ALTERNADO
+SÆo RomÆo	";"	ALTERNADO
+SÆo Roque De Minas	";"	ALTERNADO
+SÆo SebastiÆo da Bela Vista	";"	ALTERNADO
+SÆo SebastiÆo do MaranhÆo	";"	SEMANAL
+SÆo SebastiÆo Do Para¡so	";"	ALTERNADO
+SÆo Thiago	";"	ALTERNADO
+SÆo Thom‚ das Letras	";"	ALTERNADO
+SÆo Tiago	";"	ALTERNADO
+SÆo Tom s de Aquino	";"	ALTERNADO
+SÆo Tom‚ das Letras	";"	ALTERNADO
+Sao Vicente De Minas	";"	ALTERNADO
+SÆo Vicente De Minas	";"	ALTERNADO
+Sarzedo	";"	ALTERNADO
+Senador Cortes	";"	ALTERNADO
+Senador Firmino	";"	ALTERNADO
+Senhora de Oliveira	";"	ALTERNADO
+Serra do Salitre	";"	ALTERNADO
+Serra dos Aimor‚s	";"	SEMANAL
+Sete Lagoas	";"	ALTERNADO
+Simonesia	";"	ALTERNADO
+Simon‚sia	";"	ALTERNADO
+Sobr lia	";"	ALTERNADO
+Taiobeiras	";"	ALTERNADO
+Taquara‡u de Minas	";"	SEMANAL
+Tarumirim	";"	ALTERNADO
+Teixeiras	";"	ALTERNADO
+Te¢filo Otoni	";"	DIARIO
+Tim¢teo	";"	ALTERNADO
+Tiradentes	";"	ALTERNADO
+Tiros	";"	SEMANAL
+Tocantins	";"	ALTERNADO
+Tombos	";"	SEMANAL
+Trˆs Cora‡äes	";"	ALTERNADO
+Trˆs Marias	";"	ALTERNADO
+Trˆs Pontas	";"	ALTERNADO
+Tumiritinga	";"	SEMANAL
+Tupaciguara	";"	ALTERNADO
+Turmalina	";"	ALTERNADO
+Ub 	";"	ALTERNADO
+Uba¡	";"	ALTERNADO
+Ubaporanga	";"	SEMANAL
+Uberaba	";"	DIARIO
+Uberlƒndia	";"	DIARIO
+Urucƒnia	";"	SEMANAL
+Varginha	";"	DIARIO
+V rzea da Palma	";"	ALTERNADO
+Varzelƒndia	";"	ALTERNADO
+Vazante	";"	ALTERNADO
+Vespasiano	";"	ALTERNADO
+Vi‡osa	";"	ALTERNADO
+Virgem da Lapa	";"	ALTERNADO
+Virg¡nia	";"	ALTERNADO
+Virgin¢polis	";"	ALTERNADO
+Virgolƒndia	";"	ALTERNADO
+Visconde Do Rio Branco	";"	ALTERNADO
+Volta Grande	";"	ALTERNADO
