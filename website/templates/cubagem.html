@@ -22,9 +22,13 @@
                             <label for="comprimento" class="form-label">Comprimento (em metros)</label>
                             <input type="number" step="0.01" class="form-control" id="comprimento" required>
                         </div>
+                        <div class="mb-3">
+                            <label for="volumes" class="form-label">Número de Volumes</label>
+                            <input type="number" step="1" class="form-control" id="volumes" required value="1">
+                        </div>
                         <div class="d-flex justify-content-center mb-4">
                             <button type="button" id="btnAerea" class="btn btn-primary mx-2">
-                                <i class="bi bi-airplane"></i> Aérea (Fator 300x)
+                                <i class="bi bi-airplane"></i> Aérea (Fator 166,667x)
                             </button>
                             <button type="button" id="btnTerrestre" class="btn btn-secondary mx-2">
                                 <i class="bi bi-truck"></i> Terrestre
@@ -43,7 +47,7 @@
 
 <script>
     document.getElementById('btnAerea').addEventListener('click', function () {
-        calcularCubagem(300);
+        calcularCubagem(166.667);
     });
 
     document.getElementById('btnTerrestre').addEventListener('click', function () {
@@ -54,9 +58,10 @@
         const altura = parseFloat(document.getElementById('altura').value) || 0;
         const largura = parseFloat(document.getElementById('largura').value) || 0;
         const comprimento = parseFloat(document.getElementById('comprimento').value) || 0;
+        const volumes = parseInt(document.getElementById('volumes').value) || 1;
 
-        if (altura > 0 && largura > 0 && comprimento > 0) {
-            const cubagem = (altura * largura * comprimento) * fator;
+        if (altura > 0 && largura > 0 && comprimento > 0 && volumes > 0) {
+            const cubagem = (altura * largura * comprimento) * volumes * fator;
             document.getElementById('resultado').value = cubagem.toFixed(2);
         } else {
             document.getElementById('resultado').value = "Preencha todos os campos corretamente.";
